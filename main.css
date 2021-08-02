@@ -1,0 +1,52 @@
+
+.project{
+    margin:15px;
+}
+.card-img-top{
+    border-bottom:1px solid black;
+}
+.header{
+    background-image:url(technology-background-image-11.jpg);
+    height:800px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding-top:100px;
+}
+
+.header-text{
+    height:65%;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+}
+.linkedin{
+    font-size:25px;
+    
+}
+.contact-form{
+    flex-direction: column;
+}
+.about{
+
+    padding:10px;
+    border-radius:15px;
+    border:1px solid black;
+    background-color:#30fac2;
+}
+.Projects{
+    background-color:#5671fe;
+    width:100%;
+    border:1px solid black;
+    border-radius:15px;
+}
+.contact{
+    background-color:#283852;
+    border:1px solid black;
+    border-radius:15px;
+    color:white;
+    padding:10px;
+}
+.footer{
+    background-color:black;
+    color:white;
+}
